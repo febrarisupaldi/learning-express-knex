@@ -25,9 +25,5 @@
     "url": "https://github.com/febrarisupaldi/learning-express-knex/issues"
   },
   "homepage": "https://github.com/febrarisupaldi/learning-express-knex#readme",
-  "dependencies": {
-    "express": "^4.17.1",
-    "knex": "^0.21.17",
-    "mysql": "^2.18.1"
-  }
+  "devDependencies": {}
 }
